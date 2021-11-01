@@ -1,0 +1,25 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Sky" referent="RBXD96CA524ACBD4A55B897E9815D4EB0D5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<bool name="CelestialBodiesShown">false</bool>
+			<float name="MoonAngularSize">11</float>
+			<Content name="MoonTextureId"><url>rbxasset://sky/moon.jpg</url></Content>
+			<string name="Name">DeepSpace</string>
+			<Content name="SkyboxBk"><url>http://www.roblox.com/asset/?id=159248188</url></Content>
+			<Content name="SkyboxDn"><url>http://www.roblox.com/asset/?id=159248183</url></Content>
+			<Content name="SkyboxFt"><url>http://www.roblox.com/asset/?id=159248187</url></Content>
+			<Content name="SkyboxLf"><url>http://www.roblox.com/asset/?id=159248173</url></Content>
+			<Content name="SkyboxRt"><url>http://www.roblox.com/asset/?id=159248192</url></Content>
+			<Content name="SkyboxUp"><url>http://www.roblox.com/asset/?id=159248176</url></Content>
+			<int64 name="SourceAssetId">230057424</int64>
+			<int name="StarCount">0</int>
+			<float name="SunAngularSize">21</float>
+			<Content name="SunTextureId"><url>rbxasset://sky/sun.jpg</url></Content>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+</roblox>
